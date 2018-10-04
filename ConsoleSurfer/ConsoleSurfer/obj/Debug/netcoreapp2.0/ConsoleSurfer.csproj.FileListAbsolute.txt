@@ -1,0 +1,11 @@
+/Users/BrodieCollinson/Projects/ConsoleSurfer/ConsoleSurfer/obj/Debug/netcoreapp2.0/ConsoleSurfer.csprojResolveAssemblyReference.cache
+/Users/BrodieCollinson/Projects/ConsoleSurfer/ConsoleSurfer/obj/Debug/netcoreapp2.0/ConsoleSurfer.csproj.CoreCompileInputs.cache
+/Users/BrodieCollinson/Projects/ConsoleSurfer/ConsoleSurfer/obj/Debug/netcoreapp2.0/ConsoleSurfer.AssemblyInfoInputs.cache
+/Users/BrodieCollinson/Projects/ConsoleSurfer/ConsoleSurfer/obj/Debug/netcoreapp2.0/ConsoleSurfer.AssemblyInfo.cs
+/Users/BrodieCollinson/Projects/ConsoleSurfer/ConsoleSurfer/bin/Debug/netcoreapp2.0/ConsoleSurfer.deps.json
+/Users/BrodieCollinson/Projects/ConsoleSurfer/ConsoleSurfer/bin/Debug/netcoreapp2.0/ConsoleSurfer.runtimeconfig.json
+/Users/BrodieCollinson/Projects/ConsoleSurfer/ConsoleSurfer/bin/Debug/netcoreapp2.0/ConsoleSurfer.runtimeconfig.dev.json
+/Users/BrodieCollinson/Projects/ConsoleSurfer/ConsoleSurfer/bin/Debug/netcoreapp2.0/ConsoleSurfer.dll
+/Users/BrodieCollinson/Projects/ConsoleSurfer/ConsoleSurfer/bin/Debug/netcoreapp2.0/ConsoleSurfer.pdb
+/Users/BrodieCollinson/Projects/ConsoleSurfer/ConsoleSurfer/obj/Debug/netcoreapp2.0/ConsoleSurfer.dll
+/Users/BrodieCollinson/Projects/ConsoleSurfer/ConsoleSurfer/obj/Debug/netcoreapp2.0/ConsoleSurfer.pdb
